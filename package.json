@@ -1,0 +1,11 @@
+{
+  "name": "smtp-backend",
+  "main": "rest.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.8",
+    "node-uuid": "^1.4.7",
+    "smtp-server": "^1.9.0"
+  }
+}
